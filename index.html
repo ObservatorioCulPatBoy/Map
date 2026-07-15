@@ -1,73 +1,14 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8" />
-  <title>Eventos Culturales de Boyacá</title>
-
-  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
-  <link rel="stylesheet" href="/maps.css" />
-</head>
-<body>
-
-  <header class="header">
-    <img src="/log1.png" alt="Logo 1" class="logo-izq">
-    <img src="/log2.png" alt="Logo 2" class="logo-centro">
-  </header>
-
-  <div class="container">
-    <div class="top-section">
-      <div id="map"></div>
-
-      <div id="sidebar">
-        <h2>Filtros</h2>
-
-        <div class="filter-group">
-          <label for="f-mes">Mes:</label>
-          <select id="f-mes">
-            <option value="">— Todos —</option>
-          </select>
-        </div>
-
-        <div class="filter-group">
-          <label for="f-provincia">Provincia:</label>
-          <select id="f-provincia">
-            <option value="">— Todas —</option>
-          </select>
-        </div>
-
-        <div class="filter-group">
-          <label for="f-municipio">Municipio:</label>
-          <select id="f-municipio">
-            <option value="">— Todos —</option>
-          </select>
-        </div>
-
-        <button id="btn-limpiar">🗑 Limpiar filtros</button>
-      </div>
-    </div>
-
-    <div class="tabla-container">
-      <h3>Lista de eventos</h3>
-
-      <table id="tabla-eventos">
-        <thead>
-          <tr>
-            <th>Fecha</th>
-            <th>Evento</th>
-            <th>Tipo de Evento</th>
-            <th>Línea/Subcategoría</th>
-            <th>Municipio</th>
-          </tr>
-        </thead>
-        <tbody>
-        </tbody>
-      </table>
-    </div>
-  </div>
-
-  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-  <script src="/boyaca_low.js"></script>
-  <script src="/mapa.js"></script>
-
-</body>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BIC</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
 </html>
+
