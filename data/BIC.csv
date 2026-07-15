@@ -1,0 +1,197 @@
+id_bic,nivel,codigo_nacional,tipo_bic,grupo,subgrupo,categoria,subcategoria,codigo_dane,codigo_dane₂,nombre_bien,direccion,acto_administrativo,zona_influencia,pemp
+bic0001,Nacional,01-01-01-03-15-087-000001,Inmueble,Arquitectónico,Arquitectura Religiosa,Centro Doctrinero,Capilla Doctrinera,15087,,Capilla Doctrinera Belén de Cerinza,Afueras Del Perímetro Urbano,Resolución 1686 del 1 de diciembre de 2004,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0002,Nacional,01-01-01-03-15-092-000001,Inmueble,Arquitectónico,Arquitectura Religiosa,Centro Doctrinero,Capilla Doctrinera,15092,,Capilla Doctrinera Beteitiva,Plaza Principal,Resolución 1686 del 1 de diciembre de 2004,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0003,Nacional,01-01-01-08-15-176-000001,Inmueble,Arquitectónico,Arquitectura Para El Transporte,Estación Del Ferrocarril,Terminal De Pasajeros,15176,,Estación del Ferrocarril Chiquinquirá,"Ferrocarril Del Norte. Línea La Caro -
+Barbosa. Kilómetro 144. Entre Las Calles 21 Y 23, Avenida Salazar Y Río Chiquinquirá","Decreto 746 del 24 de abril de 1996.
+Decreto 3053 19-XII-1990","Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0004,Nacional,01-01-01-03-15-232-000001,Inmueble,Arquitectónico,Arquitectura Religiosa,Centro Doctrinero,Capilla Doctrinera,15232,,Capilla Doctrinera de San Isidro de Chíquiza,Plaza Principal,Resolución 1686 del 1 de diciembre de 2004,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0005,Nacional,01-01-01-03-15-187-000001,Inmueble,Arquitectónico,Arquitectura Religiosa,Iglesia,Ermita,15187,,Ermita de Chivatá,Plaza Principal. Ruta De La Campaña Libertadora,Resolución 1686 del 1 de diciembre de 2004,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0006,Nacional,01-01-01-02-15-215-000001,Inmueble,Arquitectónico,Arquitectura Habitacional,Vivienda Rural,Casa De Hacienda,15215,,"Casa del General Juan José Reyes Patria. Héroe de la Batalla de
+Gámeza",,Ley 51 del 26 de diciembre de 1967,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0007,Nacional,01-01-01-03-15-224-000001,Inmueble,Arquitectónico,Arquitectura Religiosa,Centro Doctrinero,Capilla Doctrinera,15224,,Capilla Doctrinera Cucaita,Plaza Principal,Resolución 1686 del 1 de diciembre de 2004,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0008,Nacional,01-01-01-03-15-226-000001,Inmueble,Arquitectónico,Arquitectura Religiosa,Centro Doctrinero,Capilla Doctrinera,15226,,Capilla Doctrinera Cuítiva,Plaza Principal,Resolución 1686 del 1 de diciembre de 2005,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0009,Nacional,01-01-01-06-15-238-000002,Inmueble,Arquitectónico,Arquitectura Para La Industria,Molino,Molino,15238,,Conjunto arquitectónico del Molino Tundama,"Diagonal 16 19-73, Diagonal 16 19-101",Resolución 0433 de 29 de diciembre de 2021,"Resolución 0433 de 29 de
+diciembre de 2021","Resolución 0433 de 29 de
+diciembre de 2021"
+bic0010,Nacional,01-01-01-08-15-238-000002,Inmueble,Arquitectónico,Arquitectura Para El Transporte,Estación Del Ferrocarril,Terminal De Pasajeros,15238,,Estación del Ferrocarril Duitama,Carrera 20 Entre Calles 14 Y 15,Decreto 746 del 24 de abril de 1996,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0011,Nacional,01-01-01-08-15-238-000001,Inmueble,Arquitectónico,Arquitectura Para El Transporte,Estación Del Ferrocarril,Terminal De Pasajeros,15238,,Estación del Ferrocarril Bonza,Inspección Departamental Surba Y Bonza,Decreto 746 del 24 de abril de 1996,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0012,Nacional,01-01-02-01-15-362-000001,Inmueble,Urbano,Sector Urbano,"Sector Urbano De
+Interés",Centro Histórico,15362,,Poblado de Iza,,Resolución 617 del 11 de abril de 2002,"Resolución 1811 del 23 de junio
+de 2015","Resolución 1811 del 23 de
+junio de 2015"
+bic0013,Nacional,01-01-01-03-15-466-000001,Inmueble,Arquitectónico,Arquitectura Religiosa,Iglesia,Capilla,15466,,Capilla de San Antonio,Carrera 3 2-110,Decreto 291 del 24 de febrero de 1975,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0014,Nacional,01-01-02-01-15-466-000001,Inmueble,Urbano,Sector Urbano,Sector Urbano De Interés,Centro Histórico,15466,,Centro Urbano de Monguí,,Resolución 87 del 2 de febrero de 2005,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0015,Nacional,01-01-01-03-15-466-000002,Inmueble,Arquitectónico,Arquitectura Religiosa,Conjunto Conventual,Claustro - Iglesia,15466,,Iglesia y Convento de San Francisco,"Plaza Principal. Carrera 3 4-38; Carrera 3 4-
+2",Decreto 291 del 24 de febrero de 1975,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0016,Nacional,2 01-01-01-09-15-466-000001,Inmueble,Arquitectónico,Obra De Ingeniería,Infraestructura,Puente,15466,,Puente Colonial Calicanto,"Sobre El Río Calicanto. Hoy Carrera 3, Calle 3",Decreto 291 del 24 de febrero de 1975,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0017,Nacional,01-01-01-03-15-476-000001,Inmueble,Arquitectónico,Arquitectura Religiosa,Centro Doctrinero,Capilla Doctrinera,15476,,Capilla Doctrinera Motavita,Plaza Principal,Resolución 1686 del 1 de diciembre de 2004,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0018,Nacional,01-01-01-03-15-500-000001,Inmueble,Arquitectónico,Arquitectura Religiosa,Centro Doctrinero,Capilla Doctrinera,15500,,Capilla Doctrinera Oicatá,"Plaza Principal. Carrera 3, Entre Calles 4 Y 5",Resolución 1686 del 1 de diciembre de 2004,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0019,Nacional,01-01-01-08-15-500-000001,Inmueble,Arquitectónico,Arquitectura Para El Transporte,Estación Del Ferrocarril,Terminal De Pasajeros,15500,,Estación del Ferrocarril Oicatá,,Decreto 746 del 24 de abril de 1996,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0020,Nacional,01-01-01-02-15-516-000001,Inmueble,Arquitectónico,Arquitectura Habitacional,Vivienda Rural,Casa De Hacienda,15516,,Casa de Hacienda El Salitre,,Decreto 290 del 24 de febrero de 1975,"Definida según lo enunciado en el
+Artículo 14 del Decreto 2358 de",
+bic0021,Nacional,01-01-01-08-15-516-000001,Inmueble,Arquitectónico,Arquitectura Para El Transporte,Estación Del Ferrocarril,Terminal De Pasajeros,15516,,Estación del Ferrocarril Paipa,"Ferrocarril Del Nordeste. Línea La
+Caro - Belencito. Kilómetro 225",Decreto 746 del 24 de abril de 1996,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0022,Nacional,01-01-01-08-15-516-000002,Inmueble,Arquitectónico,Arquitectura Para El Transporte,Estación Del Ferrocarril,Terminal De Pasajeros,15516,,Estación del Ferrocarril Soconsuca,,Decreto 746 del 24 de abril de 1996,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0023,Nacional,01-01-05-01-15-516-000003,Inmueble,,,,,15516,,"El terreno situado dentro de un perímetro
+de 1 km en todas direcciones, contado a","Cerro De El Cangrejo - Vereda Pantano De
+Vargas (Ruta De La Campaña Libertadora)","Decreto 1744 de 1 de septiembre de
+1975","Definida según lo enunciado en el
+Artículo 14 del Decreto 2358 de",
+bic0024,Nacional,01-01-01-01-15-533-000002,Inmueble,Arquitectónico,"Arquitectura
+Militar",Fortificación,Reducto,15533,,Reducto de Paya,Alto De Las Pavas – Vereda El Morro,Resolución 1466 de 6 de agosto de 2020,"Resolución 1466 de 6 de agosto
+de 2020","No requiere PEMP (Resolución
+1466 de 6 de agosto de 2020)"
+bic0025,Nacional,01-01-01-03-15-600-000001,Inmueble,Arquitectónico,"Arquitectura
+Religiosa","Conjunto
+Conventual",Claustro - Iglesia,15600,,Convento del Desierto de La Candelaria,"Inspección Departamental La Candelaria.
+Vía Ráquira - Sutamarchán",Resolución 789 del 31 de julio de 1998,"Definida según lo enunciado en el
+Artículo 14 del Decreto 2358 de",
+bic0026,Nacional,01-01-01-08-15-632-000002,Inmueble,Arquitectónico,Arquitectura Para El Transporte,Estación Del Ferrocarril,Terminal De Pasajeros,15632,,Estación del Ferrocarril Saboyá,,Decreto 746 del 24 de abril de 1996,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0027,Nacional,01-01-01-08-15-632-000001,Inmueble,Arquitectónico,Arquitectura Para El Transporte,Estación Del Ferrocarril,Terminal De Pasajeros,15632,,Estación del Ferrocarril Garavito,Inspección De Policía Garavito,Decreto 746 del 24 de abril de 1996,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0028,Nacional,01-01-01-06-15-646-000001,Inmueble,Arquitectónico,Arquitectura Para La Industria,Ferrería,Fábrica De Hierro,15646,,Antigua Ferrería de Samacá,,Resolución 794 del 31 de julio de 1998,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0029,Nacional,01-01-01-08-15-646-000001,Inmueble,Arquitectónico,Arquitectura Para El Transporte,Estación Del Ferrocarril,Terminal De Pasajeros,15646,,Estación del Ferrocarril Samacá,,Decreto 746 del 24 de abril de 1996,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0030,Nacional,01-01-01-08-15-646-000002,Inmueble,Arquitectónico,Arquitectura Para El Transporte,Estación Del Ferrocarril,Terminal De Pasajeros,15646,,Estación del Ferrocarril Tierranegra,,Decreto 746 del 24 de abril de 1996,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0031,Nacional,01-01-01-03-15-740-000001,Inmueble,Arquitectónico,"Arquitectura
+Religiosa","Centro
+Doctrinero",Capilla Doctrinera,15740,,Capilla Doctrinera Siachoque,,"Resolución 1686 del 1 de diciembre de
+2004","Definida según lo enunciado en el
+Artículo 14 del Decreto 2358 de",
+bic0032,Nacional,01-01-01-03-15-757-000001,Inmueble,Arquitectónico,Arquitectura Religiosa,Iglesia,Iglesia,15757,,Iglesia de Socha Viejo,Corregimiento Socha Viejo,Decreto 268 del 12 de febrero de 1980,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0033,Nacional,01-01-01-08-15-759-000002,Inmueble,Arquitectónico,Arquitectura Para El Transporte,Estación Del Ferrocarril,Terminal De Pasajeros,15759,,Estación del Ferrocarril Belencito - Chicamocha,Inspección De Policía Belencito,Decreto 746 del 24 de abril de 1996,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0034,Nacional,01-01-01-08-15-759-000001,Inmueble,Arquitectónico,Arquitectura Para El Transporte,Estación Del Ferrocarril,Terminal De Pasajeros,15759,,Estación del Ferrocarril Sogamoso,Vía Briceño-Sogamoso,Decreto 746 del 24 de abril de 1996,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0035,Nacional,01-01-01-09-15-296-000001,Inmueble,Arquitectónico,Obra De Ingeniería,Infraestructura,Puente,15759,,Puente de Reyes-Boyacá,,Ley 965 del 12 de julio de 2005,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0036,Nacional,01-01-01-04-15-759-000001,Inmueble,Arquitectónico,Arquitectura Institucional,Edificación Para La Cultura,Teatro,15759,,Teatro Sogamoso,"Esquina Calle 12, Carrera 9",Decreto 2011 del 5 de noviembre de 1996,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0037,Nacional,01-01-01-03-15-762-000001,Inmueble,Arquitectónico,Arquitectura Religiosa,Centro Doctrinero,Capilla Doctrinera,15762,,Capilla Doctrinera Sora,Plaza Principal,Resolución 1686 del 1 de diciembre de 2004,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0038,Nacional,01-01-01-08-15-763-000001,Inmueble,Arquitectónico,Arquitectura Para El Transporte,Estación Del Ferrocarril,Terminal De Pasajeros,15763,,Estación del Ferrocarril Sotaquirá,,Decreto 746 del 24 de abril de 1996,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0039,Nacional,01-01-01-03-15-776-000001,Inmueble,Arquitectónico,Arquitectura Religiosa,Conjunto Conventual,Claustro,15776,,Convento del Santo Ecce Homo,Vía Villa De Leyva - Santa Sofía,Resolución 789 del 31 de julio de 1998,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0040,Nacional,01-01-01-08-15-806-000001,Inmueble,Arquitectónico,Arquitectura Para El Transporte,Estación Del Ferrocarril,Terminal De Pasajeros,15806,,Estación del Ferrocarril Tibasosa,"Ferrocarril Del Nordeste. Línea
+Bogotá - Sogamoso. Kilómetro 247",Decreto 746 del 24 de abril de 1996,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0041,Nacional,01-01-01-02-15-806-000002,Inmueble,Arquitectónico,,,,15806,,Museo de Arte Religioso,"Vereda Suescún. Vía Duitama - Nobsa. Km 6, Lote Culturama",Decreto 923 del 19 de marzo de 1986,Decreto 923 del 19 de marzo de 1986,
+bic0042,Nacional,01-01-01-02-15-810-000001,Inmueble,Arquitectónico,Arquitectura Habitacional,Vivienda Rural,Casa De Hacienda,15810,,Casa de Hacienda Tipacoque,,Decreto 390 del 17 de marzo de 1970,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0043,Nacional,01-01-01-03-15-820-000001,Inmueble,Arquitectónico,Arquitectura Religiosa,Centro Doctrinero,Capilla Doctrinera,15820,,Capilla Doctrinera Tópaga,Plaza Principal,Ley 42 del 18 de noviembre de 1965,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0044,Nacional,01-01-01-09-15-820-000001,Inmueble,Arquitectónico,Obra De Ingeniería,Infraestructura,Puente,15820,,Puente Sobre el Río Gámeza,Ruta De La Campaña Libertadora,Resolución 109 del 9 de febrero de 2005,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0045,Nacional,01-01-01-04-15-001-000012,Inmueble,Arquitectónico,Arquitectura Institucional,Edificación Para La Educación,Institución De Educación Básica,15001,,"Carrera 10 18-51 al 99 Colegio de Boyacá, Sede Francisco de Paula Santander",Carrera 10 18-51 Al 99,Resolución 0454 de 21 de diciembre de 2022,,"No requiere PEMP (Resolución 0454 de 21 de diciembre de
+2022)"
+bic0046,Nacional,01-01-01-02-15-001-000001,Inmueble,Arquitectónico,Arquitectura Habitacional,Vivienda Urbana,Vivienda Unifamiliar,15001,,Casa Cultural Gustavo Rojas Pinilla,Calle 17 10-63,Ley 50 del 9 de octubre de 1986,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0047,Nacional,01-01-01-08-15-001-000001,Inmueble,Arquitectónico,Arquitectura Para El Transporte,Estación Del Ferrocarril,Terminal De Pasajeros,15001,,Estación del Ferrocarril Germania,,Decreto 746 del 24 de abril de 1996,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0048,Nacional,01-01-01-08-15-001-000002,Inmueble,Arquitectónico,Arquitectura Para El Transporte,Estación Del Ferrocarril,Terminal De Pasajeros,15001,,Estación del Ferrocarril La Vega,,Decreto 746 del 24 de abril de 1996,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0049,Nacional,01-01-01-08-15-001-000003,Inmueble,Arquitectónico,Arquitectura Para El Transporte,Estación Del Ferrocarril,Terminal De Pasajeros,15001,,Estación del Ferrocarril Páez Nuevo,,Decreto 746 del 24 de abril de 1996,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0050,Nacional,01-01-01-08-15-001-000005,Inmueble,Arquitectónico,Arquitectura Para El Transporte,Estación Del Ferrocarril,Terminal De Pasajeros,15001,,Estación del Ferrocarril Tunja (Antigua),,Decreto 746 del 24 de abril de 1996,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0051,Nacional,01-01-01-08-15-001-000006,Inmueble,Arquitectónico,Arquitectura Para El Transporte,Estación Del Ferrocarril,Terminal De Pasajeros,15001,,Estación del Ferrocarril Tunja (Nueva),,Decreto 746 del 24 de abril de 1996,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0052,Nacional,01-01-01-05-15-001-000001,Inmueble,Arquitectónico,Arquitectura Para El Comercio,Edificación Comercial,Plaza De Mercado,15001,,Plaza de Mercado de Tunja,"Calles 20 Y 21, Carreras 13 Y 14",Decreto 3070 del 20 de diciembre de 1990,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0053,Nacional,01-01-02-01-15-001-000001,Inmueble,Urbano,Sector Urbano,Sector Urbano De Interés,Centro Histórico,15001,,Sector Antiguo de la ciudad de Tunja,"El Sector Antiguo Abarca "" Las Calles,
+Plazas, Plazoletas, Murallas, Inmuebles, Incluidos Casas Y Construcciones Históricas, En Los","Resolución 428 de 27 de marzo de 2012
+(aprueba); Resolución 1680 de 10 de junio de 2015 (adiciona);
+Resolución 3275 de 12 de noviembre de","Resolución 428 de 27 de marzo
+de 2012","Resolución 428 de 27 de marzo
+de 2012 (aprueba); Resolución 1680 de
+10 de junio de 2015 (adiciona);"
+bic0054,Nacional,01-01-01-09-15-861-000001,Inmueble,,,,,15001,15861,"Conjunto del Parque Histórico, la Piedra de
+Barreiro, las Ruinas del Antiguo Molino Hidráulico y el área de mayor enfrentamiento entre los ejércitos,",,Resolución 1066 de 2 de agosto de 2006,"Resolución 3419 de 24 de
+septiembre de 2018","Resolución 3419 de 24 de
+septiembre de 2018"
+bic0055,Nacional,01-01-01-09-15-861-000001,Inmueble,Arquitectónico,Obra De Ingeniería,Infraestructura,Puente,15001,15861,Puente de Boyacá,Ruta De La Campaña Libertadora,Resolución 1066 de 2 de agosto de 2006,"Resolución 3419 de 24 de
+septiembre de 2018","Resolución 3419 de 24 de
+septiembre de 2018"
+bic0056,Nacional,01-01-01-08-15-001-000004,Inmueble,Arquitectónico,Arquitectura Para El Transporte,Estación Del Ferrocarril,Terminal De Pasajeros,15001,15861,Estación del Ferrocarril Puente de Boyacá,Corregimiento Puente De Boyacá,Decreto 746 del 24 de abril de 1996,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0057,Nacional,01-01-02-01-15-835-000001,Inmueble,Urbano,Sector Urbano,Sector Urbano De Interés,Centro Histórico,15835,,Sector Urbano del Municipio de Turmequé,""" La Plaza Principal Que Corresponde A La
+Manzana N° 15 Del Plano Urbano Elaborado Por El Instituto Geográfico ""Agustín Codazzi"" Y Los Cuatro Costados",Decreto 1940 del 29 de agosto de 1989,Decreto 1940 del 29 de agosto de 1989,
+bic0058,Nacional,01-01-01-03-15-837-000001,Inmueble,Arquitectónico,Arquitectura Religiosa,Centro Doctrinero,Capilla Doctrinera,15837,,Capilla Doctrinera Tuta,Plaza Principal,Resolución 1686 del 1 de diciembre de 2004,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0059,Nacional,01-01-01-08-15-837-000001,Inmueble,Arquitectónico,Arquitectura Para El Transporte,Estación Del Ferrocarril,Terminal De Pasajeros,15837,,Estación del Ferrocarril Tuta,,Decreto 746 del 24 de abril de 1996,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0060,Nacional,01-01-01-02-15-861-000001,Inmueble,Arquitectónico,Arquitectura Habitacional,Vivienda Rural,Vivienda Unifamiliar,15861,,Casa de Teja o de Postas,Ruta De La Campaña Libertadora,Resolución 1066 del 2 de agosto de 2006,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0061,Nacional,01-01-01-02-15-861-000002,Inmueble,Arquitectónico,Arquitectura Habitacional,Vivienda Rural,Vivienda Unifamiliar,15861,,Casa Histórica de Ventaquemada,Ruta De La Campaña Libertadora,Ley 51 del 26 de diciembre de 1967,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0062,Nacional,01-01-01-08-15-861-000001,Inmueble,Arquitectónico,Arquitectura Para El Transporte,Estación Del Ferrocarril,Terminal De Pasajeros,15861,,Estación del Ferrocarril Albarracín,,Decreto 746 del 24 de abril de 1996,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0063,Nacional,01-01-01-08-15-861-000002,Inmueble,Arquitectónico,Arquitectura Para El Transporte,Estación Del Ferrocarril,Terminal De Pasajeros,15861,,Estación del Ferrocarril Páez Viejo,,Decreto 746 del 24 de abril de 1996,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0064,Nacional,01-01-01-08-15-861-000003,Inmueble,Arquitectónico,Arquitectura Para El Transporte,Estación Del Ferrocarril,Terminal De Pasajeros,15861,,Estación del Ferrocarril Ventaquemada,,Decreto 746 del 24 de abril de 1996,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0065,Nacional,01-01-01-03-15-861-000001,Inmueble,Arquitectónico,Arquitectura Religiosa,Iglesia,Iglesia,15861,,Templo de La Libertad,Ruta De La Campaña Libertadora,Ley 50 del 9 de octubre de 1986. Resolución 1066 del 2 de agosto de 2006,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0066,Nacional,01-01-01-02-15-407-000001,Inmueble,Arquitectónico,Arquitectura Habitacional,Vivienda Urbana,Vivienda Unifamiliar,15407,,Casa donde murió Antonio Nariño,Carrera 9 10-25,Ley 81 del 26 de septiembre de 1961,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0067,Nacional,01-01-02-01-15-407-000001,Inmueble,Urbano,Sector Urbano,Sector Urbano De Interés,Centro Histórico,15407,,Sector Antiguo de la ciudad de Villa de Leyva,"El Sector Antiguo Abarca "" Las Calles, Plazas, Plazoletas, Murallas, Inmuebles, Incluidos Casas Y Construcciones Históricas, En Los Ejidos, Muebles Etc., Incluidos En El
+Perímetro Que Tenían Éstas Poblaciones Durante Los Siglos Xvi, Xvii, Xviii "". Ley 163 30-12-1959","Acta 05 de 1995 del Consejo de Monumentos Nacionales (delimita);
+Resolución 2407 de 30
+de noviembre de 2020 (actualiza)",Acta 05 de 1995 del Consejo de Monumentos Nacionales (delimita); Resolución 2407 de 30 de noviembre de 2020 (actualiza),"Resolución 2407 de 30 de noviembre
+de 2020"
+bic0068,Nacional,01-01-05-01-15-516-000001,Mueble,Monumento En Espacio Público,Monumento En Espacio Público,Escultura,,15516,,Monumento del Pantano de Vargas.,Cerro De El Cangrejo - Vereda Pantano De Vargas (Ruta De La Campaña Libertadora),Decreto 1744 de 1 de septiembre de 1975,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0069,Nacional,-,Mueble,De Carácter Utilitario,Ornamentos Litúrgicos E Indumentaria Religiosa,,,15806,,Colección de obra mueble del Museo de Arte Religioso,"Vereda Suescún. Vía Duitama - Nobsa. Km 6, Lote Culturama",Decreto 923 del 19 de marzo de 1986,"Definida según lo enunciado en el Artículo 14 del Decreto 2358 de
+2019",
+bic0070,Departamental,-,Inmueble,Arquitectónico,Arquitectura Para La Industria,Molino,Molino,15238,,Molino Tundama,"Carrera 16 No. 19-73 Y Carrera 16 No. 19-
+101","Decreto 582 Del 17 De Septiembre
+De 2019","Resolución 0433 De 29 De
+Diciembre De 2021","Resolución 0433 De 29 De
+Diciembre De 2021"
+bic0071,Departamental,-,Inmueble,Arquitectónico,Arquitectura Habitacional,Vivienda Rural,Casa De Hacienda,15238,,Casa Del Mayorazgo De San Lorenzo Del Marquesado De Surba Y Bonza,"Área Rural De Duitama, Km. 8 Vía Bonza","Decreto 583 Del 17 De Septiembre
+De 2019","Decreto 583 Del 17 De
+Septiembre De 2019 (300 Metros Lineales Contados A Partir De La Finalización Del Área Afectada Por Cada Uno De Sus Costados)",
+bic0072,Departamental,-,Inmueble,Arquitectónico,Obra De Ingeniería,Infraestructur,Puente,15511,15299,Puente Cuadras,"Límite Territorial Que Comparten Los Municipios De Pachavita Y Garagoa, Sobre El Río Garagoa","Decreto 585 Del 17 De Septiembre
+De 2019","Decreto 585 Del 17 De
+Septiembre De 2019 (300 Metros Lineales Contados A Partir De La Finalización Del Área Afectada Por Cada Uno De Sus Costados)",
+bic0073,Departamental,-,Inmueble,Arquitectónico,Arquitectura Habitacional,Vivienda Urbana,Casa Unifamiliar,15599,,Casa Del Expresidente De La República José Ignacio De Márquez,Calle 7 No. 5-37/39/43,"Decreto 584 Del 17 De Septiembre
+De 2019","Decreto 584 Del 17 De
+Septiembre De 2019 (100 Metros Lineales Contados A Partir De La Finalización Del Área Afectada Por Cada Uno De Sus Costados)",
+bic0074,Departamental,-,Inmueble,Arquitectónico,Arquitectura Para La Industria,Fábrica,Fábrica De Licores,15407,,Real Fábrica De Licores,"Calle 13 N° 8 - 04 /24 Carrera 8 N° 13 - 17 /
+45 Y Calle 13 No. 8-28",Resolución 136 De 2023,No Aplica,
+bic0075,Departamental,-,Inmueble,Arquitectónico,Arquitectura Institucional,"Edificación Para La
+Educación","Institución Educativa
+Básica",15001,,Colegio De Boyacá Sede Francisco De Paula Santander,Carrera 10 18-51 Al 99,Resolución 139 De 2023,No Aplica,
+bic0076,Departamental,-,Inmueble,Urbano,Sector Urbano,"Sector De
+Interés","Centro
+Histórico",15720,,Centro Histórico,Centro Histórico,Resolución 137 De 2023,Resolución 137 De 2023,
+bic0077,Departamental,-,Inmueble,Urbano,Sector Urbano,"Sector De
+Interés","Centro
+Histórico",15244,,Centro Histórico,Centro Histórico,Resolución 138 De 2023,Resolución 138 De 2023,
+bic0078,Departamental,-,Inmueble,Arquitectónico,Arquitectura Habitacional,Hospedaje,Hotel,15753,,Hotel Turístico,Carrera 6 No. 7-57,Resolución 134 De 2023,"Resolución 134 De 2023
+(100 Metros Lineales Contados A Partir De La Finalización Del Área Afectada Por Cada Uno De Sus Costados)",
+,Municipal,,,,,,,,,,,,,
