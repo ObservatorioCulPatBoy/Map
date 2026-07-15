@@ -1,0 +1,10 @@
+.chart {
+	border: 1px solid #ccc;
+	height: 400px;
+	text-align: center;
+}
+
+.dummies{
+	font-size: 50px;
+	margin: 10px;
+}
